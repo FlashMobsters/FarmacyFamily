@@ -13,12 +13,6 @@ Accepted
 
 ### Alternatives
 
-Key map:
-- + Promotes
-- ++ Strongly promotes
-- O Neutral
-- - Negative
-- -- Strongly negative
 
 | | Monolith | Microservices | Micro-kernel | Modularized Monolith |
 |----|----|----|-----|-----|
